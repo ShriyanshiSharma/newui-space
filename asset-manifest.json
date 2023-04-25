@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/newui-space/static/css/main.7a04bb94.css",
+    "main.js": "/newui-space/static/js/main.971d096a.js",
+    "static/js/787.d291c0b7.chunk.js": "/newui-space/static/js/787.d291c0b7.chunk.js",
+    "static/media/1-shuttleendea 1.png": "/newui-space/static/media/1-shuttleendea 1.39f975597541d9f7472f.png",
+    "static/media/pexels-photo-6498994 1.png": "/newui-space/static/media/pexels-photo-6498994 1.b6996d5dcb0dadfc05d8.png",
+    "static/media/Jpx0cr 1.png": "/newui-space/static/media/Jpx0cr 1.39a9df595478e85ac505.png",
+    "static/media/00_generic_facebook-001 1.png": "/newui-space/static/media/00_generic_facebook-001 1.3c725840307099c9ba11.png",
+    "static/media/feature3.png": "/newui-space/static/media/feature3.38c5cdad0519fa6b64f2.png",
+    "static/media/4.png": "/newui-space/static/media/4.6bcb9187680f4aa5d141.png",
+    "static/media/2.png": "/newui-space/static/media/2.60a4c816c570951f782d.png",
+    "static/media/5.png": "/newui-space/static/media/5.15d857ce4464aad9873c.png",
+    "static/media/1.png": "/newui-space/static/media/1.ad6e70401c6dcd51e665.png",
+    "static/media/3.png": "/newui-space/static/media/3.d23e16242c30dd64cc72.png",
+    "static/media/6.png": "/newui-space/static/media/6.2847df76c578c19941ad.png",
+    "static/media/feature4.png": "/newui-space/static/media/feature4.3ef833035a6d88d3b370.png",
+    "static/media/feature2.png": "/newui-space/static/media/feature2.fc804681d562332e80e6.png",
+    "static/media/feature1.png": "/newui-space/static/media/feature1.bb8143e355c13e703ff6.png",
+    "static/media/space-removebg-preview 2.png": "/newui-space/static/media/space-removebg-preview 2.9a1ab236e510a5d9b016.png",
+    "static/media/rec11.png": "/newui-space/static/media/rec11.d37121fb6cbbe93fcca5.png",
+    "static/media/logo-no-background 4.png": "/newui-space/static/media/logo-no-background 4.1e8e79f787d00df6c535.png",
+    "index.html": "/newui-space/index.html",
+    "main.7a04bb94.css.map": "/newui-space/static/css/main.7a04bb94.css.map",
+    "main.971d096a.js.map": "/newui-space/static/js/main.971d096a.js.map",
+    "787.d291c0b7.chunk.js.map": "/newui-space/static/js/787.d291c0b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a04bb94.css",
+    "static/js/main.971d096a.js"
+  ]
+}
