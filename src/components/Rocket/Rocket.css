@@ -1,0 +1,134 @@
+.rocket{
+    width: 100%;
+    background-color: black;
+    position: relative;
+
+}
+
+.ship__container{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    bottom:10% ;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 0;
+    line-height: 0;
+}
+
+.ship{
+    flex-basis: 20%;
+    margin: 0;
+    
+}
+.rocket h1{
+    padding-top: 6%;
+    padding-bottom: 30px;
+    position: absolute;
+    top: 0;
+    color: #fff;
+    z-index: 3;
+    left: 7%;
+    font-size: 50px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-right:6%;
+}
+.back{
+    width: 100%;
+    filter: blur(1px);
+    padding: 0;
+}
+.ship{
+    margin: 20px;
+}
+
+.ship_img{
+    /* position: absolute; */
+    padding: 30px 0;
+    width: 100%;
+    border: 2px solid;
+    border-color: #F1ECEC #333330  #F1ECEC #333330 ;
+    background: linear-gradient(to top right,rgb(84, 84, 84),rgba(0, 0, 0, 0),  #333330,rgb(84, 84, 84));
+}
+.ship__button{
+    margin-top: 50px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+    background-color: rgb(66, 66, 66);
+    border: 0;
+}
+
+
+@media (max-width: 1200px) {
+    .rocket h1{
+        font-size: 45px;
+    }
+
+}
+
+
+@media (max-width: 950px) {
+    .rocket h1{
+        /* padding-top: 60px; */
+        font-size: 40px;
+    }
+    .ship{
+        flex-basis: 15%;
+    }
+
+}
+
+
+@media (max-width: 850px) {
+    .rocket h1{
+        /* padding-top: 50px; */
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width:700px) {
+    .rocket h1{
+        /* padding-top: 40px; */
+        font-size: 25px;
+    }
+    .ship__container{
+        bottom: 8%;
+    }
+    .ship__button{
+        margin-top: 20px;
+    }
+
+}
+
+
+@media (max-width:600px) {
+    .rocket h1{
+        font-size: 22px;
+    }
+    .ship__container{
+        bottom: 8%;
+    }
+    .ship__button{
+        font-size: 10px;
+        padding: 10px;
+    }
+}
+
+
+@media (max-width:500px) {
+    .rocket h1{
+        padding-top: 4%;
+        font-size: 22px;
+    }
+    .ship__container{
+        bottom: 8%;
+    }
+    .ship__button{
+        font-size: 10px;
+        padding: 10px;
+    }
+}

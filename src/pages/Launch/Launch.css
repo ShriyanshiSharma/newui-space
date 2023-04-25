@@ -1,0 +1,64 @@
+.launch{
+    color: #fff;
+    background: linear-gradient(to bottom,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8));
+}
+
+.launch__heading{
+    padding:5%;
+    padding-top: 10%;
+    background-image: url("../../assets/1-shuttleendea\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.launch__heading h1{
+    font-size: 70px;
+    font-weight: 400;
+    font-style:italic ;
+    margin-bottom: 0;
+    padding-left: 2%;
+}
+.launch__paragraph img{
+    width: 35px;
+    height: 35px;
+    padding: 25px;
+}
+.launch__paragraph p{
+    font-size: 25px;
+}
+.launch__paragraph{
+    display: flex;
+}
+.launch__detail{
+    padding:0 25px;
+    font-size: 20px;
+    display: flex;
+}
+.launch__table{
+    padding: 5%;
+   
+    justify-content: center;
+}
+.launch__line{
+    display: flex;
+}
+.launch__line img {
+    padding-left: 10px;
+}
+td p{
+    padding: 10px;
+}
+table{
+    border: 1px;
+}
+.launch__table th,td{
+    font-size:20px;
+    font-style: italic;
+    width: 15%;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    border-left: 1px solid;
+}
+.noline{
+    border-left: none;
+}

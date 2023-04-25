@@ -1,0 +1,144 @@
+.footer{
+    background-image: url("../../assets/Jpx0cr\ 1.png");
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    opacity: 0.9;
+}
+.footer__container{
+    display: flex;
+    flex-direction: column;
+}
+.footer__container > p{
+    position: absolute;
+    right: 20px;
+}
+
+.logo{
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* text-align: center; */
+    font-size: 20px;
+    padding: 85px 0;
+    margin: 0;
+}
+.content{
+    justify-content: center;
+    text-align: center;
+}
+.items{
+    flex-basis: 11%;
+}
+
+
+.space{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.space img{
+    height: 1px;
+    width: 70px;
+    padding:22px 10px;
+}
+.space p{
+    width: 300;
+    font-size: 13px;
+}
+
+
+.input{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.input input{
+    opacity: 0.5;
+    border-radius: 15px;
+    width: 50%;
+    height: 25px;
+    border: 0;
+    padding-left: 20px;
+}
+
+.input button{
+    position:absolute;
+    right:23%;
+    height: 27px;
+    border-radius: 15px;
+    width: 100px;
+    border: 0;
+}
+
+.list img{
+    width: 15px;
+    height:15px;
+    padding:5px 25px;
+}
+
+.list > ul {
+    display: flex;
+    list-style: none;
+}
+
+.base{
+    display: flex;
+}
+
+.social{
+    padding-left: 25px;
+    
+    /* float: left; */
+}
+.social img{
+    width: 30px;
+    padding:15px 0px;
+    padding-left: 0;
+    padding-right: 10px;
+}
+.base >h6{
+    position: absolute;
+    right: 25px;
+}
+.line__hr{
+    margin: 0 25px;
+}
+
+
+@media (max-width: 900px) {
+    .list{
+        font-size: 15px;
+    }
+
+
+}
+
+@media (max-width: 700px) {
+    .base{
+        display: flex;
+        flex-direction: column;
+        justify-content:flex-start;
+    }
+    .base >h6{
+        position: relative;
+        right:auto;
+
+    }
+    .list img{
+        width: 10px;
+        height:10px;
+        padding:5px 20px;
+    }
+    .list{
+        font-size: 12px;
+    }
+}

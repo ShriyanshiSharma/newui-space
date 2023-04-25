@@ -1,0 +1,40 @@
+.news{
+    padding-bottom: 10%;
+    color: #fff;
+    background: linear-gradient(to bottom,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8));
+
+    
+}
+.news__heading {
+    padding:5%;
+    padding-top: 10%;
+}
+
+.news__heading h1{
+    font-size: 70px;
+    font-weight: 400;
+    font-style:italic ;
+    margin-bottom: 0;
+    padding-left: 2%;
+}
+
+.news__container{
+    padding: 0;
+    margin: 0;
+}
+.news__button{
+    display: flex;
+    justify-content: center;
+}
+.news__button button{
+    padding: 15px;
+    font-size: 17px;
+    border: 2px solid;
+    border-color: #080a25 #0D1B2A rgba(13, 27, 42, 0.8);
+    background: linear-gradient(to left,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8) ,  #0D1B2A ,#000000);
+    font-style: italic;
+    text-transform: uppercase;
+    margin-bottom: 90px;
+    margin-top: 70px;
+    color: #fff;
+}

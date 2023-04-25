@@ -1,0 +1,72 @@
+.about{
+    color: #fff;
+    background: linear-gradient(to bottom,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8));
+}
+
+.about__heading {
+    padding:5%;
+    padding-top: 10%;
+}
+.about__heading h1{
+    font-size: 70px;
+    font-weight: 400;
+    font-style:italic ;
+    margin-bottom: 0;
+    padding-left: 2%;
+}
+
+
+.underline{
+    display: flex;
+}
+
+.line__about{
+    height: 2px;
+    width: 80%;
+    padding-top: 24px;
+}
+
+.about__plane{
+    width: 50px;
+}
+
+.about__data{
+    padding: 20px 50px;
+}
+.about__data h2{
+    font-size: 30px;
+}
+.about__data p{
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    padding: 5px;
+    margin: 0;
+    line-height: 1.6;
+    font-size: "Poppins";
+}
+
+.about__team{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0 50px;
+}
+
+.about__learn{
+    justify-content: center;
+    text-align: center;
+}
+
+.about__learn button{
+    padding: 15px;
+    font-size: 17px;
+    border: 2px solid;
+    border-color: #000000 #0D1B2A rgba(13, 27, 42, 0.8);
+    background: linear-gradient(to left,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8) ,  #0D1B2A ,#000000);
+    font-style: italic;
+    text-transform: uppercase;
+    margin-bottom: 90px;
+    margin-top: 70px;
+    color: #fff;
+
+}

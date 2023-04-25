@@ -1,0 +1,88 @@
+.application{
+    position: relative;
+    background: linear-gradient(to bottom,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8));
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.app__container{
+    position: relative;
+    width: 60%;
+    margin-top: 5%;
+    border: 2px solid;
+    background: linear-gradient(to left,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8) ,  #0D1B2A ,#000000);
+    border-color: #080a25 #0D1B2A rgba(13, 27, 42, 0.8);
+    padding: 30px 50px;
+    padding-bottom: 200px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.app_input img{
+    width: 300px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.app_input input{
+    width:90% ;
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    margin: 20px;
+    background-color: #a7abdd;
+    font-size: 20px; 
+}
+.app__resume {
+    /* width:80% ; */
+    padding-left: 20px;
+    /* padding-top: 15px; */
+    border-radius: 15px;
+    border: none;
+    margin: 20px;
+    background-color: #a7abdd;
+    font-size: 20px; 
+    display: flex;
+    text-align: center;
+}
+
+.app__resume p{
+    font-size: 20px;
+    opacity: 0.5;
+}
+input::file-selector-button{
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #0D1B2A;
+    margin-left: 30%;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.app__resume input[type="file"]{
+    font-size: 18px;
+    color: #fff;
+    text-transform: lowercase;
+    padding-left: 10px;
+}
+
+
+.app__container button{
+    position: absolute;
+    width: 30%;
+    padding: 15px;
+    font-size: 17px;
+    border: 2px solid;
+    border-color: #000000 #0D1B2A rgba(13, 27, 42, 0.8);
+    background: linear-gradient(to left,#000000,  #0D1B2A ,rgba(13, 27, 42, 0.8) ,  #0D1B2A ,#000000);
+    font-style: italic;
+    text-transform: uppercase;
+    margin-bottom: 90px;
+    margin-top: 70px;
+    color: #fff;
+    bottom: 0;
+    left: 35%;
+}
