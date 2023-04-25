@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       
       <Routes>
-      <Route path='/' element={<div><Navbar/><Homepage/><Footer/></div>}/>
+      <Route path='/newui-space' element={<div><Navbar/><Homepage/><Footer/></div>}/>
       <Route path='/about' element={<div><Navbar/><About/><Footer/></div>}/>
       <Route path='/launch' element={<div><Navbar/><Launch/><Footer/></div>}/>
       <Route path='/news' element={<div><Navbar/><News/><Footer/></div>}/>
