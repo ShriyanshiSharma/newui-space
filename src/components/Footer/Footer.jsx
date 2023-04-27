@@ -29,19 +29,37 @@ function Footer() {
                 </div>
                 <div className="list">
                     <ul>
-                        <li className='items'>ABOUT</li>
-                        <img className='items' src={dot} alt="" />
+                        <div className="items">
+                           <li className='items'>ABOUT</li>
+                        </div>
+                        <div className="items">
+                            <img className='item' src={dot} alt="" />
+                        </div>
 
-                        <li className='items'>LAUNCH</li>
-                        <img className='items' src={dot} alt="" />
+                        <div className="items">
+                           <li className='items'>NEWS</li>
+                        </div>
+                        <div className="items">
+                            <img className='item' src={dot} alt="" />
+                        </div>
 
-                        <li className='items'>NEWS</li>
-                        <img className='items' src={dot} alt="" />
+                        <div className="items">
+                           <li className='items'>CAREER</li>
+                        </div>
+                        <div className="items">
+                            <img className='item' src={dot} alt="" />
+                        </div>
 
-                        <li className='items'>CAREER</li>
-                        <img className='items' src={dot} alt="" />
+                        <div className="items">
+                           <li className='items'>LAUNCH</li>
+                        </div>
+                        <div className="items">
+                            <img className='item' src={dot} alt="" />
+                        </div>
 
-                        <li className='items'>Freatures</li>
+                        <div className="items">
+                           <li className='items'>FEATURES</li>
+                        </div>
                     </ul>
                 </div>
                 <hr className='line__hr'/>

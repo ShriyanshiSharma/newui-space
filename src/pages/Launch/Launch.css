@@ -53,7 +53,7 @@ table{
 .launch__table th,td{
     font-size:20px;
     font-style: italic;
-    width: 5%;
+    /* width: 15%; */
     justify-content: center;
     text-align: center;
     padding: 10px;
