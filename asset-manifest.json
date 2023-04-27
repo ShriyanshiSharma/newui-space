@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newui-space/static/css/main.5c17ef96.css",
-    "main.js": "/newui-space/static/js/main.50d2e671.js",
+    "main.css": "/newui-space/static/css/main.12e7279a.css",
+    "main.js": "/newui-space/static/js/main.f8650294.js",
     "static/js/787.d291c0b7.chunk.js": "/newui-space/static/js/787.d291c0b7.chunk.js",
     "static/media/1-shuttleendea 1.png": "/newui-space/static/media/1-shuttleendea 1.39f975597541d9f7472f.png",
     "static/media/pexels-photo-6498994 1.png": "/newui-space/static/media/pexels-photo-6498994 1.b6996d5dcb0dadfc05d8.png",
@@ -23,12 +23,12 @@
     "index.html": "/newui-space/index.html",
     "static/media/menu.svg": "/newui-space/static/media/menu.dd92aed316c5967acbf1f7094cd87de4.svg",
     "static/media/x.svg": "/newui-space/static/media/x.6af010327c10a01672900f26b9d06c67.svg",
-    "main.5c17ef96.css.map": "/newui-space/static/css/main.5c17ef96.css.map",
-    "main.50d2e671.js.map": "/newui-space/static/js/main.50d2e671.js.map",
+    "main.12e7279a.css.map": "/newui-space/static/css/main.12e7279a.css.map",
+    "main.f8650294.js.map": "/newui-space/static/js/main.f8650294.js.map",
     "787.d291c0b7.chunk.js.map": "/newui-space/static/js/787.d291c0b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c17ef96.css",
-    "static/js/main.50d2e671.js"
+    "static/css/main.12e7279a.css",
+    "static/js/main.f8650294.js"
   ]
 }
