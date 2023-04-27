@@ -5,7 +5,6 @@ import banner from "../../assets/00_generic_facebook-001 1.png"
 function Home() {
   return (
     <div className='home'>
-        
         <img src={banner} alt="banner" className="home__image" />
         <div className="home__container">
             <h1 className="home__heading">

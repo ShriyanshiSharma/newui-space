@@ -48,9 +48,11 @@
 }
 .home__blur{
    opacity: 1;
-   background-color: #100d0d;
-   height: 100px;
+   background-color: #f4f4f4;
+   height: 20px;
+   filter: blur(50px);
 }
+
 
 @media (max-width: 1200px) {
     .home__heading{
