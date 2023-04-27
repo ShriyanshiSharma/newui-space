@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newui-space/static/css/main.7a04bb94.css",
-    "main.js": "/newui-space/static/js/main.971d096a.js",
+    "main.css": "/newui-space/static/css/main.cd9a912d.css",
+    "main.js": "/newui-space/static/js/main.b448de14.js",
     "static/js/787.d291c0b7.chunk.js": "/newui-space/static/js/787.d291c0b7.chunk.js",
     "static/media/1-shuttleendea 1.png": "/newui-space/static/media/1-shuttleendea 1.39f975597541d9f7472f.png",
     "static/media/pexels-photo-6498994 1.png": "/newui-space/static/media/pexels-photo-6498994 1.b6996d5dcb0dadfc05d8.png",
@@ -21,12 +21,14 @@
     "static/media/rec11.png": "/newui-space/static/media/rec11.d37121fb6cbbe93fcca5.png",
     "static/media/logo-no-background 4.png": "/newui-space/static/media/logo-no-background 4.1e8e79f787d00df6c535.png",
     "index.html": "/newui-space/index.html",
-    "main.7a04bb94.css.map": "/newui-space/static/css/main.7a04bb94.css.map",
-    "main.971d096a.js.map": "/newui-space/static/js/main.971d096a.js.map",
+    "static/media/menu.svg": "/newui-space/static/media/menu.dd92aed316c5967acbf1f7094cd87de4.svg",
+    "static/media/x.svg": "/newui-space/static/media/x.6af010327c10a01672900f26b9d06c67.svg",
+    "main.cd9a912d.css.map": "/newui-space/static/css/main.cd9a912d.css.map",
+    "main.b448de14.js.map": "/newui-space/static/js/main.b448de14.js.map",
     "787.d291c0b7.chunk.js.map": "/newui-space/static/js/787.d291c0b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a04bb94.css",
-    "static/js/main.971d096a.js"
+    "static/css/main.cd9a912d.css",
+    "static/js/main.b448de14.js"
   ]
 }
