@@ -25,14 +25,14 @@ function Launch() {
         <div className="launch__table">
             <tr>
                 <th style={{borderLeft:"none"}}></th>
-                <th>
-                    <img src={ship} alt="" style={{widows:"100%"}}/>
-                </th>
-                <th>
+                <th className='ship__img_change'>
                     <img src={ship} alt="" />
                 </th>
-                <th>
+                <th className='ship__img_change'>
                     <img src={ship} alt="" />
+                </th>
+                <th className='ship__img_change'>
+                    <img src={ship} alt=""/>
                 </th>
             </tr>
 
